@@ -1,0 +1,2 @@
+Hello Odin project. This is the hello_world text file that I'm currently editing.
+I am learning how to use git.
